@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sin-frontend-design"
-version = "1.0.0"
+version = "1.0.1"
 description = "OpenSIN-Code Skill: SOTA frontend design system + philosophy (Anthropic-compatible) with v0-pool integration, MCP tools, and WCAG a11y"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -20,6 +20,16 @@ dev = [
 
 [project.scripts]
 sin-frontend-design = "sin_frontend_design.mcp_server:main"
+# v1.0.1 — Standalone CLI shims for the 8 MCP tools. Sub-agents and shell
+# users can call these without spinning up the MCP server.
+design-system-load = "sin_frontend_design.cli_shims.design_system_load:main"
+design-component-create = "sin_frontend_design.cli_shims.design_component_create:main"
+design-page-scaffold = "sin_frontend_design.cli_shims.design_page_scaffold:main"
+design-review = "sin_frontend_design.cli_shims.design_review:main"
+design-token-extract = "sin_frontend_design.cli_shims.design_token_extract:main"
+design-a11y-check = "sin_frontend_design.cli_shims.design_a11y_check:main"
+design-responsive-test = "sin_frontend_design.cli_shims.design_responsive_test:main"
+design-figma-export = "sin_frontend_design.cli_shims.design_figma_export:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
