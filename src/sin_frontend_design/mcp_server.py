@@ -1,6 +1,6 @@
 """FastMCP server exposing frontend design tools.
 
-Docs: src/sin_frontend_design/mcp_server.doc.md
+Docs: mcp_server.doc.md
 """
 import json
 import os

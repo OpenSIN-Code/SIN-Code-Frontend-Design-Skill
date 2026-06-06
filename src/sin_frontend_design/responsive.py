@@ -1,6 +1,6 @@
 """Responsive breakpoint generator — produces tokens, media queries, and helpers.
 
-Docs: src/sin_frontend_design/responsive.doc.md
+Docs: responsive.doc.md
 """
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional

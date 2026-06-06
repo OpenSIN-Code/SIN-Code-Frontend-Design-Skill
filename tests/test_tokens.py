@@ -1,6 +1,6 @@
 """Tests for TokenExtractor.
 
-Docs: tests/test_tokens.doc.md
+Docs: test_tokens.doc.md
 """
 import json
 

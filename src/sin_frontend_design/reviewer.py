@@ -1,6 +1,6 @@
 """UI reviewer — checks code/HTML against the design system.
 
-Docs: src/sin_frontend_design/reviewer.doc.md
+Docs: reviewer.doc.md
 """
 import re
 from dataclasses import dataclass, field

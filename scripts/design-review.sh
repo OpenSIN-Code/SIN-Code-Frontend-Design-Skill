@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI wrapper for design_review
-# Docs: scripts/design-review.doc.md
+# Docs: design-review.doc.md
 #
 # Usage:
 #   design-review.sh path/to/file.htmlx

@@ -1,6 +1,6 @@
 """Tests for DesignReviewer.
 
-Docs: tests/test_reviewer.doc.md
+Docs: test_reviewer.doc.md
 """
 from sin_frontend_design.reviewer import DesignReviewer, ReviewReport
 

@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI wrapper for design_token_extract
-# Docs: scripts/design-tokens.doc.md
+# Docs: design-tokens.doc.md
 #
 # Usage:
 #   design-tokens.sh path/to/file.css --format=css

@@ -1,6 +1,6 @@
 """Tests for ComponentGenerator.
 
-Docs: tests/test_components.doc.md
+Docs: test_components.doc.md
 """
 import pytest
 

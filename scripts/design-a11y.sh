@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI wrapper for design_a11y_check
-# Docs: scripts/design-a11y.doc.md
+# Docs: design-a11y.doc.md
 #
 # Usage:
 #   design-a11y.sh path/to/page.html

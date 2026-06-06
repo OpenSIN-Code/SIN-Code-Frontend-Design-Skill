@@ -1,6 +1,6 @@
 """Design token extraction — parses CSS/Tailwind/JSON sources.
 
-Docs: src/sin_frontend_design/tokens.doc.md
+Docs: tokens.doc.md
 """
 import json
 import re

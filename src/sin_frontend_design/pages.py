@@ -1,6 +1,6 @@
 """Page scaffolder — composes pages from sections (hero, features, pricing, footer).
 
-Docs: src/sin_frontend_design/pages.doc.md
+Docs: pages.doc.md
 """
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional

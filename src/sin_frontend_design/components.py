@@ -1,6 +1,6 @@
 """Component spec generator — produces UI specs for button, input, card, etc.
 
-Docs: src/sin_frontend_design/components.doc.md
+Docs: components.doc.md
 """
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional

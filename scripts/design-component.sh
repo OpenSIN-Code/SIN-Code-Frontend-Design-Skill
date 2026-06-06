@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI wrapper for design_component_create
-# Docs: scripts/design-component.doc.md
+# Docs: design-component.doc.md
 #
 # Usage:
 #   design-component.sh button --framework=react --variant=primary

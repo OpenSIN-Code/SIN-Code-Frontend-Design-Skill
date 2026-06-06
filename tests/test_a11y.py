@@ -1,6 +1,6 @@
 """Tests for A11yChecker (WCAG 2.2 AA).
 
-Docs: tests/test_a11y.doc.md
+Docs: test_a11y.doc.md
 """
 import pytest
 

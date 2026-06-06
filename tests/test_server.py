@@ -1,6 +1,6 @@
 """Tests for FastMCP server.
 
-Docs: tests/test_server.doc.md
+Docs: test_server.doc.md
 """
 import json
 from pathlib import Path

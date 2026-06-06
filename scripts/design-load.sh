@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI wrapper for design_system_load
-# Docs: scripts/design-load.doc.md
+# Docs: design-load.doc.md
 #
 # Usage:
 #   design-load.sh                  # Load default design system

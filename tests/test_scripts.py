@@ -1,6 +1,6 @@
 """Tests for shell scripts (smoke tests).
 
-Docs: tests/test_scripts.doc.md
+Docs: test_scripts.doc.md
 """
 import os
 import subprocess

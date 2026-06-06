@@ -1,6 +1,6 @@
 """Tests for BreakpointGenerator.
 
-Docs: tests/test_responsive.doc.md
+Docs: test_responsive.doc.md
 """
 import pytest
 

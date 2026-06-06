@@ -1,6 +1,6 @@
 """Tests for DesignSystem.
 
-Docs: tests/test_system.doc.md
+Docs: test_system.doc.md
 """
 from sin_frontend_design.system import (
     DEFAULT_TOKENS,

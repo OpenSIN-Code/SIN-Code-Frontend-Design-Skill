@@ -1,6 +1,6 @@
 """Design system data — typography, color, spacing, motion primitives.
 
-Docs: src/sin_frontend_design/system.doc.md
+Docs: system.doc.md
 """
 from dataclasses import dataclass, field
 from typing import Any, Dict, List, Optional

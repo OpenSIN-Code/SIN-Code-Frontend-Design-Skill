@@ -1,6 +1,6 @@
 """Tests for PageScaffolder.
 
-Docs: tests/test_pages.doc.md
+Docs: test_pages.doc.md
 """
 import pytest
 

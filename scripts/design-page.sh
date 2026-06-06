@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: CLI wrapper for design_page_scaffold
-# Docs: scripts/design-page.doc.md
+# Docs: design-page.doc.md
 #
 # Usage:
 #   design-page.sh landing --framework=html --title="My SaaS"

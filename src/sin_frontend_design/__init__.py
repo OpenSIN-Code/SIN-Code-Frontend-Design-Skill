@@ -1,6 +1,6 @@
 """sin-frontend-design package — SOTA design system + philosophy.
 
-Docs: src/sin_frontend_design/__init__.doc.md
+Docs: __init__.doc.md
 """
 from .a11y import A11yChecker, A11yFinding
 from .components import ComponentGenerator, ComponentSpec

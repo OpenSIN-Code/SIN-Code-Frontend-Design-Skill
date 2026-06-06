@@ -1,6 +1,6 @@
 """WCAG 2.2 AA accessibility checker.
 
-Docs: src/sin_frontend_design/a11y.doc.md
+Docs: a11y.doc.md
 """
 import re
 from dataclasses import dataclass, field

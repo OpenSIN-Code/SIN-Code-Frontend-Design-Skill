@@ -1,6 +1,6 @@
 """Tests for CoDocs presence.
 
-Docs: tests/test_codocs.doc.md
+Docs: test_codocs.doc.md
 """
 from pathlib import Path
 
